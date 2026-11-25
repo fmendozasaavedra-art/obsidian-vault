@@ -201,10 +201,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33c1bfabab338e81",
+  "active": "31af4e30dd6660b8",
   "lastOpenFiles": [
     "Dia 1 Bootcamp zero to hero..md",
     "Bienvenido.md",
