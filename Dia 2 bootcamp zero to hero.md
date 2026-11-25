@@ -5,3 +5,5 @@ MAX- returns maximun value
 MIN- returns minumun value
 SUM- returns the sum of all values
 and ROUND to spicify precision
+
+HAVING is the WHERE stament for aggregate functions
