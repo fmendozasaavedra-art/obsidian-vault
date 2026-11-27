@@ -10,8 +10,8 @@ HAVING is the WHERE stament for aggregate functions
 
 JOINS allows us to combine multiple tables
 INNER JOINS will result with the set of records that match in both tables
-OUTER JOINS
-FULL JOINS
+OUTER JOINS 
+FULL JOINS select everything from both tables
 UNIONS
 
 SELECT * FROM tableA
